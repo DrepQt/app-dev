@@ -1,26 +1,23 @@
 # app-dev
  My first repository
  # Chavez,Wilfred
- 5 Liana Road. Barangay. Sto. Cristo, CSJDM | Bulacan, Philippines | 09760203235 | leonilsantiagolaqui319@gmail.com
+Blk 13 lot 1 DLC 3 ph3 Brgy graceville City of Sanjose Delmonte Bulacan
 
 
 ## Summary
-Motivated and hardworking undergrad majoring in computer engineering with strong technical capabilities and an aptitude for creativity. Proven proficiency in C++, Java, and Python, along with practical knowledge of hardware design and circuitry. I am dedicated to utilize my skills to create innovative products that solve major issues. Seeking a position where I can make a meaningful contribution, work with other skilled individuals, and advance my career in computer engineering.
+I'm known for being a detail-oriented, well-organized team player. I never miss deadlines, I'm a good communicator and I can juggle multiple tasks at once. In my performance reviews, my supervisor always notes that he appreciates my professionalism and enthusiasm for the job.
 
 ## Education
-- High School Graduate, STEM, University/Institution, 2021
+2015-22 CLASJ 
 - **Bachelor of Science, Computer Engineering, STI SJDM, 2023
 
 ## Skills
-- Profeciency in Programming
+- Trained to have a good quality customer service  to clients and third-parties 
 - Hardware Design
-- Teamwork and Collaboration
+- Basic Computer Knowledge
 
 ## Languages
 - Java
 - Python
 
-## Interests
-- Technological Innovations
-- Economical Advancements
-- Social Changes
+
